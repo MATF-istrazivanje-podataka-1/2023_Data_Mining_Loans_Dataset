@@ -1,1 +1,14 @@
-2023_Data_Mining_Loans_Dataset
+# Loans Default Dataset
+
+Autor: Stefan Kerkoč
+
+Pravljenje modela za predviđanje mogućnosti otplaćivanja kredita
+
+Algoritmi za:
+
+- Klasifikaciju: Decesion Tree, Random Forrest, KNN, Multinomial Naive Bayes
+- Klasterovanje: Kmeans, Bisecting Kmeans
+-Pravila pridruživanja: Apriori
+
+
+
