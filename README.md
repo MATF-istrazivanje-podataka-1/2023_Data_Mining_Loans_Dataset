@@ -8,7 +8,7 @@ Algoritmi za:
 
 - Klasifikaciju: Decesion Tree, Random Forrest, KNN, Multinomial Naive Bayes
 - Klasterovanje: Kmeans, Bisecting Kmeans
--Pravila pridruživanja: Apriori
+- Pravila pridruživanja: Apriori
 
 
 
